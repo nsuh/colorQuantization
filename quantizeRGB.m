@@ -1,0 +1,1 @@
+function [outputImg, meanColors] = quantizeRGB(origImg, k)
